@@ -1,0 +1,5 @@
+package com.enptechnologies.entity;
+
+public class User {
+
+}
