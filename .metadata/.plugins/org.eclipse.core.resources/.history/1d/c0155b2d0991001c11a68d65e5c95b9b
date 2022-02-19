@@ -1,5 +1,0 @@
-package com.enptechnologies.repository;
-
-public interface UserRepository {
-
-}

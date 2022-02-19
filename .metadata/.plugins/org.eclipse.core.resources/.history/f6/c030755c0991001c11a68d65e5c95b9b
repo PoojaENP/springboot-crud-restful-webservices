@@ -1,5 +1,0 @@
-package com.enptechnologies.exception;
-
-public class ResourceNotFoundException {
-
-}
